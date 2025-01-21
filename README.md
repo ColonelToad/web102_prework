@@ -30,7 +30,7 @@ GIF created with *Microsoft ClipChamp*
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+If the video walkthrough does not work, it is also uploaded as "walkthrough.mp4." The GIF version was too large of a file, and compression techniques did not reduce it enough.
 
 ## License
 
